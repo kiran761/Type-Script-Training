@@ -1,3 +1,6 @@
 "use strict";
-let a = 10;
-//# sourceMappingURL=hello.js.map
+let sales = 123456789;
+let course = "TypeScript";
+let is_published = true;
+console.log(sales);
+
